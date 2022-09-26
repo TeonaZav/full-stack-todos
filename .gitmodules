@@ -1,3 +1,6 @@
 [submodule "subrepo-client"]
 	path = subrepo-client
 	url = https://github.com/TeonaZav/subrepo-client.git
+[submodule "subrepo-server"]
+	path = subrepo-server
+	url = https://github.com/TeonaZav/subrepo-server.git
