@@ -1,0 +1,3 @@
+[submodule "subrepo-client"]
+	path = subrepo-client
+	url = https://github.com/TeonaZav/subrepo-client.git
