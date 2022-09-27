@@ -74,10 +74,9 @@ For back-end:
 npm init
 npm i express pg cors
 npm install -g nodemon
-```
 change starting point in package.json (replace "main": "index.js" with "main": "server.js")
-
 ```
+.
 ---
 
 ## Links
