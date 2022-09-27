@@ -50,9 +50,9 @@ Your users should be able to:
 
 | Dark                                           | Light                                           |
 | ---------------------------------------------- | ----------------------------------------------- |
-| <img src="/images/375px-dark.JPG" width="375"> | <img src="/images/375px-light.JPG" width="375"> |
+| <img src="/375px-dark.JPG" width="375"> | <img src="/375px-light.JPG" width="375"> |
 
-## ![1440px][/images/todogif.gif]
+## ![1440px][/todogif.gif]
 
 ## Built with
 
