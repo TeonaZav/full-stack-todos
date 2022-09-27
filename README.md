@@ -67,24 +67,16 @@ To install this application enter the following into your terminal:
 For front-end (React):
 ```
 npm install
-
-```
 npm start
 ```
 For back-end:
-
 ```
 npm init
-
+npm i express pg cors
+npm install -g nodemon
 ```
 change starting point in package.json (replace "main": "index.js" with "main": "server.js")
 
-```
-npm i express pg cors
-
-```
-
-npm install -g nodemon
 ```
 ---
 
